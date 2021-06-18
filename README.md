@@ -1,2 +1,2 @@
-# My_Wine_Predicting_WQ_Final
+# Wine Quality Prediction - UCI - Vinho Verde dataset
 Final file of the Predicting Wine Quality presentation. 
